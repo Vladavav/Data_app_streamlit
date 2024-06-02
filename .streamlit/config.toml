@@ -1,0 +1,8 @@
+[client]
+showErrorDetails = false
+
+[theme]
+primaryColor = "blue"
+backgroundColor = "lightblue"
+textColor = "black"
+font = 'serif'
